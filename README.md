@@ -10,11 +10,13 @@ I'm a developer for **small projects**, **group prjects**, and a lot of other th
   
     - My contact📱: Disocrd servers for roblox games and of course the Muffin Group discord!
   
-    - Projects📓:  - yet-to-be-named-game: A simple 2d game in pygame.
+    - Projects📓:  - yet-to-be-named-game: A simple 2d game in pygame from the MuffinGroup
                    
                    - Aid-app: A medical advice KI
                    
                    - Risiko: A strategic game for everyone
+
+                   - Factorization: From the MuffinGroup
     
     - Used Codespace💻: Visual Studio Code
     
