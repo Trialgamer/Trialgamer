@@ -1,6 +1,6 @@
 # This is me:
 
-My name is **TheHackerChampion**.
+My name is **Trialgamer**.
 
 I'm a developer for **small projects**, **group prjects**, and a lot of other things.
 
