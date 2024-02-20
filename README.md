@@ -28,4 +28,4 @@ I'm a developer for **small projects**, **group prjects**, and a lot of other th
     
                            - Isible
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHackerChampion&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trialgamer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
