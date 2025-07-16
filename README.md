@@ -8,7 +8,7 @@ I'm a developer for **small projects**, **group prjects**, and a lot of other th
 
     - Languages I use💻: **Java Script**, **HTML**, **CSS** and **Python (also pygame)**
   
-    - My contact📱: Disocrd servers for roblox games and of course the Muffin Group discord!
+    - My contact📱: Discord servers for roblox games and of course the Muffin Group discord!
   
     - Projects📓:  - yet-to-be-named-game: A simple 2d game in pygame from the @MuffinGroup
                    
